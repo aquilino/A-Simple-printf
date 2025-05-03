@@ -1,11 +1,7 @@
-A simple and fast printf Function
+ADD IA with esp32
 =================================
 
-### Ideated and entirely written by Wargio/deroad
-
-### Wargio/deroad will never request donation/s for ANY Homebrew.
-
-### If you paid it, you have been scammed.
+## pequeño proyecto para añadir una ia entrenada para un esp32 con un micro y pantalla oled 0.96
 
 
 
